@@ -10,7 +10,7 @@ You can view the certificate here:
 
 ## Q & A
 
-# :One: CSS Animation
+# :one: CSS Animation
 
 ![1](https://github.com/user-attachments/assets/f07a5b08-ee30-4eb0-bddc-5c790f3fad2c)
 
@@ -18,6 +18,17 @@ You can view the certificate here:
 
 ![2](https://github.com/user-attachments/assets/45341961-50ba-4093-bbe0-b15fb0a27f99)
 
+# :three: CSS Ellipsis
+
+![2](https://github.com/user-attachments/assets/45341961-50ba-4093-bbe0-b15fb0a27f99)
+
+# :four: CSS Text Coloring
+
+![2](https://github.com/user-attachments/assets/45341961-50ba-4093-bbe0-b15fb0a27f99)
+
+# :five: CSS Selection
+
+![5](https://github.com/user-attachments/assets/0be333a5-4ac6-4985-b9ba-d7f622680491)
 
 
 ## Follow me
