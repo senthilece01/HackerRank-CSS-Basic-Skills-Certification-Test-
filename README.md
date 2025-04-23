@@ -14,6 +14,11 @@ You can view the certificate here:
 
 ![1](https://github.com/user-attachments/assets/f07a5b08-ee30-4eb0-bddc-5c790f3fad2c)
 
+# :two: CSS Object-fit
+
+![2](https://github.com/user-attachments/assets/45341961-50ba-4093-bbe0-b15fb0a27f99)
+
+
 
 ## Follow me
 
