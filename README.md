@@ -30,6 +30,17 @@ You can view the certificate here:
 
 ![5](https://github.com/user-attachments/assets/0be333a5-4ac6-4985-b9ba-d7f622680491)
 
+# :six: CSS Input placeholder
+
+![6](https://github.com/user-attachments/assets/9c919c6e-8d39-4238-b84f-5e6ea10cf1f6)
+
+# :seven: CSS Centering
+
+![7](https://github.com/user-attachments/assets/d8322b08-f208-4385-8ba7-9e3c7e23b4e3)
+
+# :eight: CSS vertical-align
+
+![8](https://github.com/user-attachments/assets/a3d47184-22d8-42dd-93d7-d86b785ff709)
 
 ## Follow me
 
